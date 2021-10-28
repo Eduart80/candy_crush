@@ -1,0 +1,21 @@
+body{
+    background-image: url("./images/ambient.jpg");
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+.box{
+   background-image: url("./images/crush-soda.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+
+}
+#root{
+    width: 100%;
+}
+#face{
+    width: auto ;
+    height: 145px;
+    padding: 0 50px;
+}
