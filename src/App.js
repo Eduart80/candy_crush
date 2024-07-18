@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import ScoreBord from './Components/ScoreBord'
+import ScoreBord from './Components/ScoreBord.js'
 import './index.css';
 import red from "./images/red.png"
 import blue from "./images/blue.png"
